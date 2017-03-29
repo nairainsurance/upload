@@ -1,0 +1,2567 @@
+{
+  "settings": {
+    "currentPage": "upload",
+    "name": "Naira pay",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 68,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "HOME",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "welcome to naira insurance",
+          "text": "Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLASSIC<br>N5,000<br>2:1 Matrix<br>Auto Assign<br>Pay out/in option<br>Referral bonus wallet<br>N10,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://nairainsurance.yn.lt/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">PROFESSIONAL<br>N10,000<br>2:1 Matrix<br>Auto Assign<br>Pay out/in option<br>Referral bonus wallet<br>N20,000 Return invest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://nairainsurance.yn.lt/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">PREMIUM<br>N20,000<br>2:1 Matrix<br>Auto Assign<br>Pay out/in option<br>Referral bonus wallet<br>N40,000 Return invest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://nairainsurance.yn.lt/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">PREMIUM<br>N50,000<br>2:1 Matrix<br>Auto Assign<br>Pay out/in option<br>Referral bonus wallet<br>N100,000 Return invest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://nairainsurance.yn.lt/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">VETERAN<br>N100,000<br>2:1 Matrix<br>Auto Assign<br>Pay out/in option<br>Referral bonus wallet<br>N200,000 Return invest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"WGHKUKLY\" data-toolbar=\"-mbrBtnMove\">LOADING....</a>       "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/insurance-2000x1392.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "Get 200% of what you invest within 24 hours",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/money-2000x749.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDER",
+                "showText": true,
+                "text": "&nbsp;we are here to change lifes and financial state of individuals and we promise to fight against fraud and defaulters in our system .",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Xj8hhcRK7RU",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-g"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-9",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/Xj8hhcRK7RU",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "watch our youtube video",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/Xj8hhcRK7RU\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-h",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "https://youtu.be/Xj8hhcRK7RU",
+            "facebook": "insurance",
+            "twitter": "insurance",
+            "google": "insurance",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/insurance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/insurance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobjhgy\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
+        }
+      ]
+    },
+    "support": {
+      "settings": {
+        "title": "support",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-o",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "support",
+          "subtitle": "you can write to us if you encounter any problem with your account",
+          "form": {
+            "action": "donmapee200@gmail.com",
+            "alerts": {
+              "success": "Thanks for reaching us, you will get our response soon"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "write your complaint"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">submit<br></a>"
+        }
+      ]
+    },
+    "JUST REGISTERED": {
+      "settings": {
+        "title": "NEW",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-r",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Just registered",
+          "text": "please wait patiently while we merge you.....",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">E wallet:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a>  "
+        }
+      ]
+    },
+    "five": {
+      "settings": {
+        "title": "confirmed",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "confirmed",
+          "text": "You have been confirmed kindly wait patiently while we merge you to receive payment",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N5,000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">E wallet: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a> "
+        }
+      ]
+    },
+    "ten": {
+      "settings": {
+        "title": "confirmed",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-x",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-y",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "confirmed",
+          "text": "You have been confirmed kindly wait patiently while we merge you to receive payment",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N10,000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">E wallet: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a> "
+        }
+      ]
+    },
+    "twenty": {
+      "settings": {
+        "title": "confirmed",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-10",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-11",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-12",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "confirmed",
+          "text": "You have been confirmed kindly wait patiently while we merge you to receive payment",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N20,000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">E wallet: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a> "
+        }
+      ]
+    },
+    "fifty": {
+      "settings": {
+        "title": "confirmed",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-15",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "confirmed",
+          "text": "You have been confirmed kindly wait patiently while we merge you to receive payment",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N50,000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"FGHHHHH\" data-toolbar=\"-mbrBtnMove\">E wallet: 00.000<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a> "
+        }
+      ]
+    },
+    "page": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "welcome to naira pay.com",
+          "text": "Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each. Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">CLASSIC<br>N5,000<br>2;1 Matrix<br>Auto Asign<br>Pay out/in option<br>Referral bonus wallet<br>N10,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR CLASSIC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">PROFESSIONAL<br>N10,000<br>2;1 Matrix<br>Auto Asign<br>Pay out/in option<br>Referral bonus wallet<br>N20,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR PROFESSIONAL</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">PREMIUM<br>N20,000<br>2;1 Matrix<br>Auto Asign<br>Pay out/in option<br>Referral bonus wallet<br>N40,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR PREMIUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">ULTIMATE<br>N50,000<br>2;1 Matrix<br>Auto Asign<br>Pay out/in option<br>Referral bonus wallet<br>N100,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR ULTIMATE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">VETERAN<br>N100,000<br>2;1 Matrix<br>Auto Asign<br>Pay out/in option<br>Referral bonus wallet<br>N200,000 Return invest<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://moneyflow.mobie.in/sign up\" data-toolbar=\"-mbrBtnMove\">LOADING....</a>        "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        }
+      ]
+    },
+    "paid": {
+      "settings": {
+        "title": "paid",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-18",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "PAYMENT RECIEVED!",
+          "text": "Your account is either new or you have just recieved payment from your downline,you can provide another help to keep the system going&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3049-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">Provide new help</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a> "
+        }
+      ]
+    },
+    "receive": {
+      "settings": {
+        "title": "receive",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-19",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<p>&nbsp; &nbsp; Receive payment from:</p>",
+          "text": "call your downline for payment<br>NOTE: do not force your downline to make payment to you, they will be blocked after 24 hours on resfusal to make payment",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Name:Nweze Ugochukwu R<br>Phone number: 08109914516<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONFIRM PAYMENT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AND</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Name:onyishi malachi<br>Phone number: 07061321451<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONFIRM PAYMENT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a> "
+        }
+      ]
+    },
+    "pay": {
+      "settings": {
+        "title": "pay",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1e",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Make payment to:",
+          "text": "NOTE: you are meant to make payment on or before 24 hours or else you will be blocked from the system",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Nweze Ugochukwu&nbsp;<br>08109914516<br>Diamond bank<br>0023055781<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Upload proof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3055-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">ignore payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N00.00<br><br>AMOUNT RECEIVED: N00.00<br><br>E WALLET: N00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a>  ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          }
+        }
+      ]
+    },
+    "pay2": {
+      "settings": {
+        "title": "pay2",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-1j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Make payment to:",
+          "text": "NOTE: you are meant to make payment on or before 24 hours or else you will be blocked from the system",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Ikechukwu Ndubuisi 08063287487<br>First bank<br>3064112672<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Upload proof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3055-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">ignore payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N00.00<br><br>AMOUNT RECEIVED: N00.00<br><br>E WALLET: N00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a>  "
+        }
+      ]
+    },
+    "pay3": {
+      "settings": {
+        "title": "pay3",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1k",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-1m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Make payment to:",
+          "text": "NOTE: you are meant to make payment on or before 24 hours or else you will be blocked from the system",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span><br>Edeh Deborah 08066129558<br>UBA<br>2059478195<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Upload proof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3055-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">ignore payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N00.00<br><br>AMOUNT RECEIVED: N00.00<br><br>E WALLET: N00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a>  "
+        }
+      ]
+    },
+    "pay4": {
+      "settings": {
+        "title": "pay4",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-1p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Make payment to:",
+          "text": "NOTE: you are meant to make payment on or before 24 hours or else you will be blocked from the system",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Onyishi Malachi<br>08064686854<br>Diamond bank<br>0019406694<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Upload proof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3055-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">ignore payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N00.00<br><br>AMOUNT RECEIVED: N00.00<br><br>E WALLET: N00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a>  "
+        }
+      ]
+    },
+    "pay5": {
+      "settings": {
+        "title": "pay5",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-1s",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Make payment to:",
+          "text": "NOTE: you are meant to make payment on or before 24 hours or else you will be blocked from the system",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Ugochukwu Rapheal 09068084098<br>GT bank<br>0170496000</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">Upload proof</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3055-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">ignore payment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID: N00.00<br><br>AMOUNT RECEIVED: N00.00<br><br>E WALLET: N00.00<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a>  "
+        }
+      ]
+    },
+    "upload": {
+      "settings": {
+        "title": "upload",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1t",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insurance-183x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nairainsurance.github.io/index/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://nairainsurance.yn.lt/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Naira insurance is an insurance company originated from US by &nbsp;a nigerian investor known as Chris George who has being a US based citizen, this company has changed many individual's financial state in America and this time he decides to bring it down to his country by converting it into ponzi scheme which will eneble nigerian citizens to help themselves by providing help to their fellow individual in nigerian currency (naira). <br>Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nairainsurance.github.io/support/support.html\" aria-expanded=\"false\">SUPPORT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Naira insurance"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1v",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "proof uploaded!",
+          "text": "you have uploaded your paymemt proof kindly call your upline to confirm you<br>Please do invite your friends with our link to keep the system going",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">logout</a> "
+        }
+      ]
+    }
+  }
+}
